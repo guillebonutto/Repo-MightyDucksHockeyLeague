@@ -1,2 +1,2 @@
 # Repo-MightyDucksHockeyLeague
-https://guillebonutto.github.io/RepoMightyDucksHockeyLeague/
+https://guillebonutto.github.io/Repo-MightyDucksHockeyLeague/
